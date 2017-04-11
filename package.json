@@ -1,0 +1,25 @@
+{
+  "name": "worldwarsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wazzup52/WorldWarSite.git"
+  },
+  "author": "Mititelu Iosif Marian",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/wazzup52/WorldWarSite/issues"
+  },
+  "homepage": "https://github.com/wazzup52/WorldWarSite#readme",
+  "dependencies": {
+    "react": "^15.5.3",
+    "react-dom": "^15.5.3",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.2.1"
+  }
+}
